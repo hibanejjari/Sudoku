@@ -8,7 +8,7 @@ namespace Sudoku
     {
         static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine("Sudoku Game Started");
             Console.ResetColor();
             Console.WriteLine();
